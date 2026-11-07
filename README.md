@@ -219,4 +219,8 @@ See [architecture](docs/ARCHITECTURE.md) and [decision log](docs/DECISIONS.md) f
 
 ## Copyright and permissions
 
-Copyright (c) 2026 Dwijeshh. All rights reserved. No license is granted to use, copy, modify, distribute, or create derivative works from this project without prior written permission, except where applicable law or GitHub's Terms of Service permit it. The public repository can still be viewed and forked on GitHub.
+Copyright (c) 2026 Dwijeshh. All rights reserved. No license is granted to use, copy, modify, distribute, or create derivative works from this project without prior written permission, except where applicable law or GitHub's Terms of Service permit it. The public repository can still be viewed and forked on GitHub. See the [copyright notice](LICENSE).
+
+## Community
+
+Feedback and issue reports are welcome under the [contribution guidelines](CONTRIBUTING.md). Please follow the [code of conduct](CODE_OF_CONDUCT.md). Report security concerns using the [security policy](SECURITY.md); do not disclose vulnerabilities in public issues.
