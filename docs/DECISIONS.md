@@ -40,3 +40,9 @@ Record new decisions with the date, reason, alternatives, and consequences. Revi
 - **Decision:** Require passage-backed citations and a consistent not-found response; display both sides of conflicts with dates.
 - **Reason:** A fluent unsupported answer is a failure for document QA.
 - **Consequence:** Citation identifiers need server-side validation, and streaming must not expose unchecked citations.
+
+## 2026-11-07 — Reserve rights to future project versions
+
+- **Decision:** Remove the MIT license and state that no license is granted for current and future project content.
+- **Reason:** The owner does not want to permit others to use, modify, or redistribute the project.
+- **Consequence:** The public repository remains viewable and forkable under GitHub's terms. The earlier MIT-licensed commit remains in Git history; this change does not erase rights already granted for that version.

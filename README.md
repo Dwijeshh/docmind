@@ -217,6 +217,6 @@ These commands are a plan, not a claim that the scaffold runs today. Never commi
 
 See [architecture](docs/ARCHITECTURE.md) and [decision log](docs/DECISIONS.md) for design rationale.
 
-## License
+## Copyright and permissions
 
-MIT. See [LICENSE](LICENSE).
+Copyright (c) 2026 Dwijeshh. All rights reserved. No license is granted to use, copy, modify, distribute, or create derivative works from this project without prior written permission, except where applicable law or GitHub's Terms of Service permit it. The public repository can still be viewed and forked on GitHub.
